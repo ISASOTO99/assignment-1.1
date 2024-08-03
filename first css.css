@@ -9,7 +9,7 @@ nav
 {
     background-color: black;
     color: white;
-    height:6000px;
+    height:100%;
     width: 200px;
     float: left;
     padding: 5px;
@@ -23,6 +23,11 @@ line-height - set to 30px */
 footer
 {
     background-color: black;
+    text-align: center;
+    margin-right:200px;
+    /* text-align - set to center */
+/* margin-right - set to 200px */
+
 }
 p
 {
