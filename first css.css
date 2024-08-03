@@ -1,0 +1,19 @@
+body
+{
+   /* background-color: red;
+   background-image:linear-gradient(red,black ); */
+   background-image: url("car3.jfif");
+
+}
+nav
+{
+    background-color: black;
+}
+footer
+{
+    background-color: black;
+}
+p
+{
+font-weight: bold;
+}
